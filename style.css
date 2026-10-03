@@ -1,0 +1,9 @@
+.paragraph {
+  background-color: aqua;
+  color: crimson;
+  font-weight: bold;
+}
+#paragraph-id {
+  color: darkgoldenrod;
+  background-color: firebrick;
+}
